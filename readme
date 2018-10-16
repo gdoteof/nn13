@@ -1,0 +1,7 @@
+Files that I have touched are:
+
+cd1.m
+configuration_goodness.m
+configuration_goodness_gradient.m
+hidden_state_to_visible_probabilities.m
+visible_state_to_hidden_probabilities.m
